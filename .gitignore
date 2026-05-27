@@ -1,0 +1,10 @@
+*.o
+*.exe
+gestor
+.vscode/
+Testing/
+ZLegacy/
+OldBuilds/
+build/
+Data/*
+!Data/.gitkeep
