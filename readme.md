@@ -91,7 +91,10 @@ Once logged in:
 5. Delete a credential
 0. Log Off
 ```
- 
+
+## Known Limitations
+- Usernames cannot contain spaces or the | character
+- Credentials are stored in a plain text file rather than a database
 
 ## ⚠️ Disclaimer
  
